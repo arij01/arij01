@@ -1,4 +1,5 @@
-# Hello World! </samp> <img src="https://github.com/mupezzuol/mupezzuol/blob/master/assets/earth.gif" width="22px" height="22px">
+# Arij M'hiri
+## Hello World! </samp> <img src="https://github.com/mupezzuol/mupezzuol/blob/master/assets/earth.gif" width="22px" height="22px">
 
 I'm Arij M'hiri, an **aspiring software engineer** passionate about solving problems with technology and turning ideas into code.
 
