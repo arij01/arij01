@@ -3,13 +3,13 @@
 
 I'm Arij M'hiri, an **aspiring software engineer** passionate about solving problems with technology and turning ideas into code.
 
-I love to explore **GO**, **Spring Boot**, and **Python** while learning new skills and building awesome projects. 🚀
+I enjoy working with **Java**, **Python**, and **Next.js** to build creative and functional projects. 🚀
 
-- 💻 I enjoy coding and creating useful applications.
-- 📚 Constantly learning and growing in my tech journey.
-- 🎯 I'm driven by creating impactful and meaningful projects.
-- ✨ I believe in the power of teamwork and collaboration.
-- 🌍 I love discovering new technologies and innovations.
+- 💻 **Coding Enthusiast:** I love creating applications that solve real-world problems.
+- 📚 **Lifelong Learner:** Always expanding my skills and exploring new tech.
+- 🎯 **Driven by Purpose:** I aim to create meaningful and impactful projects.
+- ✨ **Team Player:** I value collaboration and the power of diverse perspectives.
+- 🌍 **Tech Explorer:** Fascinated by innovations and the latest technologies..
 
 Check out my projects and let's create something amazing together!
 
